@@ -1,4 +1,4 @@
-module shippingService
+module github.com/AndreyShep2012/EVService/shippingService
 
 go 1.15
 

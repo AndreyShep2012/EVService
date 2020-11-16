@@ -5,7 +5,7 @@ import (
 	"net"
 
 	// Импотртируем код протобуфера
-	pbf "shippingService/protobuf/pb"
+	pbf "github.com/AndreyShep2012/EVService/shippingService/protobuf/pb"
 
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
